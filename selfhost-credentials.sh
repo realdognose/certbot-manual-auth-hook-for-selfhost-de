@@ -1,0 +1,4 @@
+SELFHOST_USER="email"
+SELFHOST_PASSWORD="password"
+SELFHOST_CUSTOMERNUMBER="123456"
+MAIL_RECEIVER="email for notifications"
