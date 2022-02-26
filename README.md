@@ -45,7 +45,7 @@ benötigt: certbot / ssmtp / php.
 
 - script nach /etc/selfhosthook auschecken, Login-Daten hinterlegen. 
 
-> git clone https://github.com/realdognose/selfhost-de-certbot-manual-auth-hook.git /etc/selfhosthook
+> git clone https://github.com/realdognose/certbot-manual-auth-hook-for-selfhost-de.git /etc/selfhosthook
 
 - kopiert die selfhost-credentials z.b. nach /usr/share/ und passt die Rechte an. Login Daten eintragen.
 
