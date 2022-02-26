@@ -1,0 +1,1 @@
+# certbot-manual-auth-hook-for-selfhost-de
