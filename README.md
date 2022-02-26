@@ -3,8 +3,6 @@ Manual auth hook plugin for certbot for the german domain-hoster selfhost.de
 
 Documentation on german, as it is a hoster most likely used by german speaking people :) 
 
----
-
 Selfhost.de ist ein Anbieter für Domänen. Leider bietet selfhost noch keinen nativen Support
 für automatische certbot renewals an. Wer jedoch gerne ein wildcard-certifikat von letsencrypt.org
 hätte muss die validierung über eine dns-challenge durchführen (acme-challenge) und benötigt daher
@@ -38,7 +36,6 @@ gerne einen pull-request erstellen.
 - Batchdateien für Windows
 - email, timeouts, wartezeit parametriesierbar gestalten.
 
----
 # Benutzung:
 
 benötigt: certbot / ssmtp / php.
