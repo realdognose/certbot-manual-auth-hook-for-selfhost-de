@@ -1,4 +1,4 @@
-# selfhost-de-certbot-manual-auth-hook
+# certbot-manual-auth-hook-for-selfhost-de
 Manual auth hook plugin for certbot for the german domain-hoster selfhost.de
 
 Documentation on german, as it is a hoster most likely used by german speaking people :) 
@@ -34,12 +34,12 @@ Cleanup:
 Wer das Skript gerne noch etwas hinsichtlich error-handling erweitern möchte oder eines der TODOs übernehmen möchte,#
 gerne einen pull-request erstellen. 
 
-TODOS:
+# TODOS:
 - Batchdateien für Windows
 - email, timeouts, wartezeit parametriesierbar gestalten.
 
 ---
-Benutzung:
+# Benutzung:
 
 benötigt: certbot / ssmtp / php.
 
